@@ -1,6 +1,6 @@
 # Winter 2025 GRC Analyst Progress Tracker
 
-Welcome to my Winter 2025 - GRC Analyst progress tracker for SecureTech! In this repository, you'll find updates on what I'm working on each week, what I've learned, and any challenges I'm facing, and how I overcame those I could.
+Welcome to my Winter 2025 - GRC Analyst progress tracker for SecureTech Solutions "STS" (a fictional company)! In this repository, you'll find updates on what I'm working on each week, what I've learned, and any challenges I'm facing, and how I overcame those I could.
 
 ## About Me
 
