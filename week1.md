@@ -2,13 +2,13 @@
 
 ### What I worked on this week 
 
-During my first week at SecureTech, I spent most of my time getting set up, getting to know my team and familiarizing myself with the tools and technologies I'll be using during my journey. Here's what I worked on this week:
+During my first week at SecureTech Solutions (STS), I spent most of my time getting set up, getting to know my team and familiarizing myself with the tools and technologies I'll be using during my journey. Here's what I worked on this week:
 
 - The importance of...
 
 ### What I learned this week:
 
-During my first week at SecureTech my learned focus was...
+During my first week at STS my learned focus was...
 
 
 ### Challenges I faced
