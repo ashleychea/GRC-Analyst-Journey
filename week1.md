@@ -25,6 +25,4 @@ Some of the challenges I faced were:
 
 ### Improvements
 
-Moving forward into Week 2,
-
-- During week 2, my focus is to: 
+Moving forward into Week 2 my focus is to improve on,
