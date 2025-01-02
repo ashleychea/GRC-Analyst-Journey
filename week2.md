@@ -1,4 +1,4 @@
-## Week 1: January 13 - January 17
+## Week 2: January 13 - January 17
 
 ### What I worked on this week 
 
