@@ -8,7 +8,7 @@ Welcome to my Winter 2025 - GRC Analyst progress tracker for SecureTech Solution
 
 Hello there, my name is Ashley "Ash" & I am currently pursuing a graduate degree in Cybersecurity, where I am deepening my expertise and staying ahead of emerging security trends. I am driven by the opportunity to develop solutions that enhance organizational efficiency, mitigate risks, and ensure compliance with industry standards. I enjoy researching and implementing best practices in governance, risk management, and compliance, while collaborating with professionals to strengthen processes. I am always focused on growing my expertise in these areas. Outside of work and academics, I love traveling, tackling challenging jigsaw puzzles, and being a passionate fan of baseball and football.
 
-Before starting my journey into the GRC space, I worked as a Software Engineer for one of the world's largest banks and interned in Cybersecurity + Data Privacy for a BIG10 Accounting firm.
+Before starting my journey into the GRC space, I interned in Cybersecurity + Data Privacy for a BIG10 Accounting firm in Summer 2024.
 Throughout my journey, as much as I have gathered some experience in the mentioned field, I continually seek to improve my skills and become a better Cybersecurity professional by the day.
 
 I am confident that during this journey, I'll learn how to plan and execute great solutions, various industry standards (Global and Local), methodologies, and implementations, collaborate with larger teams, improve on technical, soft, and interpersonal skills, and so much more. In summary, I will be "presentation-ready."
