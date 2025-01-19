@@ -1,4 +1,4 @@
-## Week 3: January 20 - January 24
+## Week 3: February 3 - February 7
 
 ### What I worked on this week 
 
