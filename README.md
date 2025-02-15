@@ -15,19 +15,19 @@ Throughout these 10 weeks, I’ll be:
 
 
 This program includes hands-on experience with industry-standard GRC tools, such as:
-🔹 SAP GRC – Governance, risk, and compliance management platform.
-🔹 HIPAA One – Compliance and risk assessment tool for HIPAA regulations.
-🔹 RSA Archer – Enterprise risk and compliance management software.
-🔹 AuditBoard – Cloud-based audit, risk, and compliance management tool.
+- 🔹 SAP GRC – Governance, risk, and compliance management platform.
+- 🔹 HIPAA One – Compliance and risk assessment tool for HIPAA regulations.
+- 🔹 RSA Archer – Enterprise risk and compliance management software.
+- 🔹 AuditBoard – Cloud-based audit, risk, and compliance management tool.
 
 ## What I'll Be Doing
 
 
 Each week, I’ll be taking on real-world GRC tasks, including:
-✔️ Reviewing & refining GRC policies to ensure compliance with evolving regulations.
-✔️ Performing risk assessments on cybersecurity incidents and developing risk mitigation plans.
-✔️ Drafting governance documents (e.g., charters, data protection policies) for executive review.
-✔️ Presenting a final capstone project to SecureTech’s leadership, demonstrating my ability to create a comprehensive GRC strategy.
+- ✔️ Reviewing & refining GRC policies to ensure compliance with evolving regulations.
+- ✔️ Performing risk assessments on cybersecurity incidents and developing risk mitigation plans.
+- ✔️ Drafting governance documents (e.g., charters, data protection policies) for executive review.
+- ✔️ Presenting a final capstone project to SecureTech’s leadership, demonstrating my ability to create a comprehensive GRC strategy.
 
 ## Table of Contents
 
