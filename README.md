@@ -6,10 +6,10 @@ Hello there, my name is Ashley and I’m currently enrolled in SecureTech Soluti
 
 
 Throughout these 10 weeks, I’ll be:
-✅ Mastering key cybersecurity frameworks, including ISO 27001, NIST, PCI DSS, and HIPAA, which are essential for regulatory compliance.__
-✅ Developing and updating GRC policies and governance structures to align with industry standards.
-✅ Conducting risk assessments, identifying and categorizing risks like data breaches, third-party risks, and compliance challenges.
-✅ Learning how to create risk mitigation strategies to strengthen cybersecurity postures.
+- ✅ Mastering key cybersecurity frameworks, including ISO 27001, NIST, PCI DSS, and HIPAA, which are essential for regulatory compliance.
+- ✅ Developing and updating GRC policies and governance structures to align with industry standards.
+- ✅ Conducting risk assessments, identifying and categorizing risks like data breaches, third-party risks, and compliance challenges.
+- ✅ Learning how to create risk mitigation strategies to strengthen cybersecurity postures.
 
 ## Tools & Technologies I'll Be Using
 
