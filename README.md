@@ -1,6 +1,6 @@
 # GRC Analyst Internship
 
-Hello there, my name is Ashley and I’m currently enrolled in SecureTech Solutions’ 10-Week GRC Internship Experience, a hands-on program designed to simulate the day-to-day responsibilities of a Governance, Risk, and Compliance (GRC) professional in cybersecurity. This program provides both practical experience and a structured approach to mastering key GRC frameworks, risk assessments, and industry tools. This experience will prepare me for cybersecurity GRC roles by equipping me with the knowledge, skills, and tools to navigate compliance, risk management, and governance challenges in real-world environments. 🚀
+Hello there, my name is Ashley and I’m currently enrolled in [SecureTech Solutions’ 10-Week GRC Internship Experience](https://handsongrc.talentlms.com/plus/catalog/courses/126), a hands-on program designed to simulate the day-to-day responsibilities of a Governance, Risk, and Compliance (GRC) professional in cybersecurity. This program provides both practical experience and a structured approach to mastering key GRC frameworks, risk assessments, and industry tools. This experience will prepare me for cybersecurity GRC roles by equipping me with the knowledge, skills, and tools to navigate compliance, risk management, and governance challenges in real-world environments. 🚀
 
 ## What I'll Be Learning
 
